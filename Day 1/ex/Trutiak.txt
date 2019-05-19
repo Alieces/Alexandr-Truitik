@@ -1,0 +1,35 @@
+  125  touch
+  126  touch file.txt
+  128  pwd --help
+  129  pwd --help > file.txt 
+  130  cat file.txt 
+  133  $ apt-get install git
+  134  sudo apt-get install git
+  135  git --version
+  136  sudo apt-get install gcc
+  137  sudo apt-get install clion
+  138  snap install clion 
+  139  cd /opt
+  140  cd ..
+  141  cd home/aliec
+  142  tar -xvf CLion-2019.1.3.tar.gz -C /opt
+  143  cd /opt
+  144  tar -xvf CLion-2019.1.3.tar.gz
+  145  cd ..
+  146  ls
+  147  cd /home/aliec
+  148  ls
+  149  cd Завантаження/
+  150  tar -xvf CLion-2019.1.3.tar.gz -C /opt
+  151  sudo tar -xvf CLion-2019.1.3.tar.gz -C /opt
+  152  sh /opt/clion-*/bin/clion.sh
+  153  cd ..
+  154  cd /home/alies
+  155  cd /home/aliec
+  157  pwd --history > file.txt
+  158  history -a > file.txt
+  159  cat file.txt
+  160  history -a > file.txt
+  161  history > file.txt
+  "name": "CLion",
+  "version": "2019.1.3",
